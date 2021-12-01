@@ -1,0 +1,124 @@
+body{
+  background-color: #DEB887
+}
+
+.image2{
+  width: 55%
+}
+
+.image2{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 5px solid #FFEBCD
+}
+
+video{
+  display: block;
+  margin: 0 auto;
+  border: 3px solid #FFEBCD
+}
+video{
+  width: 60%
+}
+
+.filmpics{
+background-color:#FAF0E6
+}
+.filmpics{
+  color: #DEB887
+}
+.filmpics{
+  text-align: center;
+}
+
+footer{
+  color: #FAF0E6
+}
+
+.title{
+  color: #DEB887
+}
+.title{
+  background-color:#FAF0E6
+}
+.title{
+  text-align: center;
+}
+
+.trailertitle{
+  background-color:#FAF0E6
+}
+.trailertitle{
+color: #DEB887
+}
+.trailertitle{
+    text-align: center;
+}
+
+.synopsis{
+  background-color:#FAF0E6
+}
+.synopsis{
+  color: #DEB887
+}
+.synopsis{  text-align: center;
+}
+
+.imgage3{
+  display: block;
+  margin: 1 auto;
+  border: 3px solid #FFEBCD
+}
+
+.ab{
+background-color:#FAF0E6
+}
+.ab
+{
+  color: #DEB887
+}
+
+.abd{
+  background-color:#FAF0E6
+}
+.abd{
+  color: #DEB887
+}
+
+.title2{
+  background-color:#FAF0E6
+}
+.title2{
+    color: #DEB887
+}
+.title2{
+    text-align: center;
+}
+
+.ct{
+  background-color:#FAF0E6
+}
+.ct{
+  color: #DEB887
+}
+.ctd{
+  background-color:#FAF0E6
+}
+.ctd{
+  color: #DEB887
+}
+
+.cast{
+  background-color:#FAF0E6
+}
+.cast{
+  color: #DEB887
+}
+.cast{
+  text-align: center;
+}
+
+.info{
+    color: #FAF0E6
+}
