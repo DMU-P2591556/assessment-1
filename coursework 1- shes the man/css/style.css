@@ -1,11 +1,14 @@
+/*this is for the background colour of the pages*/
 body{
   background-color: #DEB887
 }
 
+/*this is for the main image on my home page, it allocates the size of the image*/
 .image2{
   width: 55%
 }
 
+/*this is for the image on my home page, it allows me to allocate it in the middle of the page and also i have created a coloured boarder around the edge of the image*/
 .image2{
     display: block;
     margin-left: auto;
@@ -13,112 +16,144 @@ body{
     border: 5px solid #FFEBCD
 }
 
+/*this is for the placement of the video on the home page and the coloured boarder around the video*/
 video{
   display: block;
   margin: 0 auto;
   border: 3px solid #FFEBCD
 }
+/*this is for the size if the video*/
 video{
   width: 60%
 }
 
+/*this is for the background colour of the synopsis and pictures taken from the film title*/
 .filmpics{
 background-color:#FAF0E6
 }
+/*this is for the colour of the text for the same title*/
 .filmpics{
   color: #DEB887
 }
+/*this is for the placement on the page (to centre it) for the same title as shown above*/
 .filmpics{
   text-align: center;
 }
 
+/*this is for the footer for both the home page and the second page of my website, to change the colour of the text*/
 footer{
   color: #FAF0E6
 }
 
+/*this is for the title 'shes the man' on the first home page, it changed the colour of the text*/
 .title{
   color: #DEB887
 }
+/*this is to change the background colour of the title on the home page*/
 .title{
   background-color:#FAF0E6
 }
+/*this is to change the allignment of my title to the centre of the page*/
 .title{
   text-align: center;
 }
 
+/*this is to change the background colour of the film trailer title text on my home page*/
 .trailertitle{
   background-color:#FAF0E6
 }
+/*this is to change the colour of the text on the trailer title header*/
 .trailertitle{
 color: #DEB887
 }
+/*this is to change the allignment of the trailer title to the centre of the page*/
 .trailertitle{
     text-align: center;
 }
 
+/*this is for the written text of the synopsis to change the background colour*/
 .synopsis{
   background-color:#FAF0E6
 }
+/*this is to change the colour of the text of the synopsis*/
 .synopsis{
   color: #DEB887
 }
+/*this is to position the synopsis in the centre of the page*/
 .synopsis{  text-align: center;
 }
 
+/*this is to put amanda bynes image to the left of the page and have a coloured boarder around the image*/
 .imgage3{
   display: block;
   margin: 1 auto;
   border: 3px solid #FFEBCD
 }
 
+/*this is for the title amanda bynes to change the background colour*/
 .ab{
 background-color:#FAF0E6
 }
+/*this is to change the text colour on the amanda bynes title*/
 .ab
 {
   color: #DEB887
 }
 
+/*this is to change the background colour on the about section of amanda*/
 .abd{
   background-color:#FAF0E6
 }
+/*this is to change the text colour of the about section for amanda*/
 .abd{
   color: #DEB887
 }
 
+/*this is to change the background colour of the title for the second page*/
 .title2{
   background-color:#FAF0E6
 }
+/*this is to change the colour of the text for the title on the second page*/
 .title2{
     color: #DEB887
 }
+/*this is to change the allignment of the title on the second page to the centre*/
 .title2{
     text-align: center;
 }
 
+/*this is change the background colour on the channing tatum header*/
 .ct{
   background-color:#FAF0E6
 }
+/*this is to change the text colour on the channing header*/
 .ct{
   color: #DEB887
 }
+
+/*this is to change the background colour on channing tatum descritption */
 .ctd{
   background-color:#FAF0E6
 }
+/*this is to change the text colour on the channing descritption*/
 .ctd{
   color: #DEB887
 }
 
+/*this is to change the background colour on the meet the cast header*/
 .cast{
   background-color:#FAF0E6
 }
+/*this is to change the text colour on meet the cast header*/
 .cast{
   color: #DEB887
 }
+/*this is to change the text allignment on the meet the cast header to the centre of the page*/
 .cast{
   text-align: center;
 }
 
+/*this is to change the colour of the text of the extra info poniter on the second page under amandas picture*/
 .info{
     color: #FAF0E6
 }
